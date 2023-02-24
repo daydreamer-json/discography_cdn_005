@@ -1,6 +1,8 @@
 {
   "list": [
     {
+      "order": 1,
+      "barcode": 3616557516849,
       "albumArtist": "HOYO-MiX",
       "artists": [
         "HOYO-MiX",
@@ -52,6 +54,7 @@
       ],
       "extLinks": {
         "vgmdb": "https://vgmdb.net/album/113118",
+        "musicbrainz": "https://musicbrainz.org/release/4cbc63b6-7800-40d0-9535-62b035bb906a",
         "youtube": "https://youtu.be/4wFFT_usvzY",
         "apple_music": "https://music.apple.com/album/1666509544",
         "spotify": "https://open.spotify.com/track/7rhPtZ2nmgkrv6MCCDF2WU"
