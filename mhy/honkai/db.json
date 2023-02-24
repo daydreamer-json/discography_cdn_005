@@ -1,1 +1,62 @@
-{}
+{
+  "list": [
+    {
+      "albumArtist": "HOYO-MiX",
+      "artists": [
+        "HOYO-MiX",
+        "茶理理",
+        "TetraCalyx",
+        "Hanser"
+      ],
+      "albumTitle": "Moon Halo (Honkai Impact 3rd \"Everlasting Flames\" Animated Short Theme)",
+      "discs": [
+        {
+          "discNum": 1,
+          "discName": null,
+          "tracks": [
+            {
+              "trackNum": 1,
+              "trackName": "Moon Halo"
+            },
+            {
+              "trackNum": 2,
+              "trackName": "Moon Halo (Instrumental)"
+            }
+          ]
+        }
+      ],
+      "rootPath": "moon_halo/",
+      "availableFmts": [
+        {
+          "id": "flac",
+          "disp": "FLAC",
+          "mime": "audio/flac",
+          "cid": "fLaC",
+          "path": "flac",
+          "bit": 24,
+          "rate": 48000,
+          "ch": 2,
+          "bps": 1536000
+        },
+        {
+          "id": "aac_320k",
+          "disp": "AAC",
+          "mime": "audio/mp4",
+          "cid": "mp4a.40.2",
+          "path": "aac_320k",
+          "bit": null,
+          "rate": 48000,
+          "ch": 2,
+          "bps": 320000
+        }
+      ],
+      "extLinks": {
+        "vgmdb": "https://vgmdb.net/album/113118",
+        "youtube": "https://youtu.be/4wFFT_usvzY",
+        "apple_music": "https://music.apple.com/album/1666509544",
+        "spotify": "https://open.spotify.com/track/7rhPtZ2nmgkrv6MCCDF2WU"
+      },
+      "coverExtLink": "https://a5.mzstatic.com/us/r1000/0/Music123/v4/c8/55/5e/c8555e70-5989-5272-d684-0e6a971cebf8/cover.jpg"
+    }
+  ]
+}
