@@ -18,11 +18,19 @@
           "tracks": [
             {
               "trackNum": 1,
-              "trackName": "Moon Halo"
+              "trackName": {
+                "en-US": "Moon Halo",
+                "ja-JP": null,
+                "zh-CN": null
+              }
             },
             {
               "trackNum": 2,
-              "trackName": "Moon Halo (Instrumental)"
+              "trackName": {
+                "en-US": "Moon Halo (Instrumental)",
+                "ja-JP": null,
+                "zh-CN": null
+              }
             }
           ]
         }
