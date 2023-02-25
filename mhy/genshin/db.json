@@ -1,0 +1,193 @@
+{
+  "list": [
+    {
+      "order": 1,
+      "barcode": 3616406674690,
+      "copyright": "(C) 2020 miHoYo",
+      "albumArtist": "Yu-Peng Chen, HOYO-MiX",
+      "artists": [
+        "Yu-Peng Chen",
+        "HOYO-MiX"
+      ],
+      "albumTitle": "Genshin Impact - The Wind and the Star Traveler",
+      "discs": [
+        {
+          "discNum": 1,
+          "discName": null,
+          "tracks": [
+            {
+              "trackNum": 1,
+              "trackLength": 107,
+              "trackName": {
+                "en-US": "Genshin Impact Main Theme",
+                "ja-JP": "原神メインテーマ",
+                "zh-CN": "原神"
+              }
+            },
+            {
+              "trackNum": 2,
+              "trackLength": 68,
+              "trackName": {
+                "en-US": "Dawn Winery Theme",
+                "ja-JP": "アカツキワイナリー",
+                "zh-CN": "晨曦酒庄"
+              }
+            },
+            {
+              "trackNum": 3,
+              "trackLength": 59,
+              "trackName": {
+                "en-US": "A Sweet Smile",
+                "ja-JP": "甘美な微笑み",
+                "zh-CN": "甜美的微笑"
+              }
+            },
+            {
+              "trackNum": 4,
+              "trackLength": 204,
+              "trackName": {
+                "en-US": "A Storm, A Spire, and A Sanctum (Dvalin's Nest)",
+                "ja-JP": "嵐、尖塔と聖域",
+                "zh-CN": "风暴，高塔与圣地"
+              }
+            },
+            {
+              "trackNum": 5,
+              "trackLength": 208,
+              "trackName": {
+                "en-US": "Caelestinum Finale Termini",
+                "ja-JP": "終焉のフィナーレ",
+                "zh-CN": "终天的闭幕曲"
+              }
+            },
+            {
+              "trackNum": 6,
+              "trackLength": 50,
+              "trackName": {
+                "en-US": "Lone Sojourner",
+                "ja-JP": "孤独の旅路",
+                "zh-CN": "孤独的旅居"
+              }
+            },
+            {
+              "trackNum": 7,
+              "trackLength": 60,
+              "trackName": {
+                "en-US": "A Day in Mondstadt",
+                "ja-JP": "モンドの一日",
+                "zh-CN": "蒙德的一日"
+              }
+            },
+            {
+              "trackNum": 8,
+              "trackLength": 99,
+              "trackName": {
+                "en-US": "Dream Aria (Genshin Impact Main Theme Variations)",
+                "ja-JP": "夢のアリア (原神メインテーマ変奏曲)",
+                "zh-CN": "梦之咏叹"
+              }
+            },
+            {
+              "trackNum": 9,
+              "trackLength": 66,
+              "trackName": {
+                "en-US": "Pure Sky",
+                "ja-JP": "青空",
+                "zh-CN": "青空"
+              }
+            },
+            {
+              "trackNum": 10,
+              "trackLength": 70,
+              "trackName": {
+                "en-US": "The Edge of the Prairie",
+                "ja-JP": "平原のマージン",
+                "zh-CN": "平原的边际"
+              }
+            },
+            {
+              "trackNum": 11,
+              "trackLength": 125,
+              "trackName": {
+                "en-US": "A Tale of Two Dragons",
+                "ja-JP": "トワリンとドゥリン",
+                "zh-CN": "特瓦林与杜林"
+              }
+            },
+            {
+              "trackNum": 12,
+              "trackLength": 260,
+              "trackName": {
+                "en-US": "Rite of Battle",
+                "ja-JP": "バトルの秘儀",
+                "zh-CN": "战斗的秘仪"
+              }
+            },
+            {
+              "trackNum": 13,
+              "trackLength": 93,
+              "trackName": {
+                "en-US": "Knighthood Excellence",
+                "ja-JP": "騎士の善意",
+                "zh-CN": "骑士的义举"
+              }
+            },
+            {
+              "trackNum": 14,
+              "trackLength": 153,
+              "trackName": {
+                "en-US": "Happy Journey",
+                "ja-JP": "楽しい旅",
+                "zh-CN": "快乐的旅程"
+              }
+            },
+            {
+              "trackNum": 15,
+              "trackLength": 109,
+              "trackName": {
+                "en-US": "The Wind Catcher from a Foreign Land",
+                "ja-JP": "風を捕まえる異邦人",
+                "zh-CN": "捕风的异乡人"
+              }
+            }
+          ]
+        }
+      ],
+      "rootPath": "01_the_wind_and_the_star_traveler",
+      "availableFmts": [
+        {
+          "id": "flac",
+          "disp": "FLAC",
+          "mime": "audio/flac",
+          "cid": "fLaC",
+          "path": "flac",
+          "ext": "flac",
+          "bit": 24,
+          "rate": 48000,
+          "ch": 2,
+          "bps": 1536000
+        },
+        {
+          "id": "aac_320k",
+          "disp": "AAC",
+          "mime": "audio/mp4",
+          "cid": "mp4a.40.2",
+          "path": "aac_320k",
+          "ext": "m4a",
+          "bit": null,
+          "rate": 48000,
+          "ch": 2,
+          "bps": 320000
+        }
+      ],
+      "extLinks": {
+        "vgmdb": "https://vgmdb.net/album/100516",
+        "musicbrainz": "https://musicbrainz.org/release/bfae8a5d-f8d4-4515-b970-086078205cee",
+        "youtube": "https://youtu.be/ol3ViRJlCAI",
+        "apple_music": "https://music.apple.com/album/1519189657",
+        "spotify": "https://open.spotify.com/album/4jodtP1gXnHd8aU4hQiXHL"
+      },
+      "coverExtLink": "https://a5.mzstatic.com/us/r1000/0/Music125/v4/0a/86/f3/0a86f317-78d7-fe7e-f279-e835a0ac51c7/cover.jpg"
+    }
+  ]
+}
