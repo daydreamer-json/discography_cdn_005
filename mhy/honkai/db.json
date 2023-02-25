@@ -38,7 +38,7 @@
           ]
         }
       ],
-      "rootPath": "moon_halo/",
+      "rootPath": "moon_halo",
       "availableFmts": [
         {
           "id": "flac",
@@ -46,6 +46,7 @@
           "mime": "audio/flac",
           "cid": "fLaC",
           "path": "flac",
+          "ext": "flac",
           "bit": 24,
           "rate": 48000,
           "ch": 2,
@@ -57,6 +58,7 @@
           "mime": "audio/mp4",
           "cid": "mp4a.40.2",
           "path": "aac_320k",
+          "ext": "m4a",
           "bit": null,
           "rate": 48000,
           "ch": 2,
