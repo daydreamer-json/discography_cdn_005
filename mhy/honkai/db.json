@@ -3,6 +3,7 @@
     {
       "order": 1,
       "barcode": 3616557516849,
+      "copyright": "(C) 2021 miHoYo",
       "albumArtist": "HOYO-MiX",
       "artists": [
         "HOYO-MiX",
@@ -18,6 +19,7 @@
           "tracks": [
             {
               "trackNum": 1,
+              "trackLength": 204,
               "trackName": {
                 "en-US": "Moon Halo",
                 "ja-JP": null,
@@ -26,6 +28,7 @@
             },
             {
               "trackNum": 2,
+              "trackLength": 204,
               "trackName": {
                 "en-US": "Moon Halo (Instrumental)",
                 "ja-JP": null,
